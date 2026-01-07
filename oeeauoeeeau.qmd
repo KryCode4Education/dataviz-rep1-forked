@@ -1,0 +1,9 @@
+---
+title: "oeeauoeeeau"
+format: 
+  html: 
+    toc: true
+    embed-resources: true
+---
+
+## ![](images/Cat%20Festival%20GIF%20by%20W&W.gif)
